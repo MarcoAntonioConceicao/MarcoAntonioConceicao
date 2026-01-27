@@ -1,8 +1,8 @@
 ## Marco Antonio da Conceição 👋
 
-- 🔭 Desenvolvedor Front-End  
+- 🔭 Full-Stack Dev
 - 🌱 Aprendendo Typescript  
-- ⚡ ReactJs, NodeJs, JavaScript, CSS, C++, Python  
+- ⚡ ReactJs, NodeJs, JavaScript, NestJs, C#, Python, MongoDB, Docker
 
 <br> 
 <br> 
