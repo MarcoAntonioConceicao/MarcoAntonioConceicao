@@ -2,7 +2,7 @@
 
 - 🔭 Full-Stack Dev
 - 🌱 Aprendendo Typescript  
-- ⚡ ReactJs, NodeJs, JavaScript, NestJs, C#, Python, MongoDB, Docker
+- ⚡ ReactJs, NodeJs, JavaScript, NestJs, C#, Python, MongoDB, Docker, .NET, Quarkus
 
 <br> 
 <br> 
